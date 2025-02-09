@@ -1,13 +1,18 @@
 [
 {
   "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/increasing_array/linux/x86_64/release/src/increasing_array.cpp.o", "src/increasing_array.cpp"],
-  "file": "src/increasing_array.cpp"
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/main/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
 },
 {
   "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/missing_number/linux/x86_64/release/src/missing_number.cpp.o", "src/missing_number.cpp"],
-  "file": "src/missing_number.cpp"
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/permutations/linux/x86_64/release/src/permutations.cpp.o", "src/permutations.cpp"],
+  "file": "src/permutations.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/two_knights/linux/x86_64/release/src/two_knights.cpp.o", "src/two_knights.cpp"],
+  "file": "src/two_knights.cpp"
 },
 {
   "directory": "/home/dayf/projects/cpp/cses",
@@ -21,11 +26,21 @@
 },
 {
   "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/permutations/linux/x86_64/release/src/permutations.cpp.o", "src/permutations.cpp"],
-  "file": "src/permutations.cpp"
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/increasing_array/linux/x86_64/release/src/increasing_array.cpp.o", "src/increasing_array.cpp"],
+  "file": "src/increasing_array.cpp"
 },
 {
   "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/main/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
-  "file": "src/main.cpp"
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/missing_number/linux/x86_64/release/src/missing_number.cpp.o", "src/missing_number.cpp"],
+  "file": "src/missing_number.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/number_spiral/linux/x86_64/release/src/number_spiral.cpp.o", "src/number_spiral.cpp"],
+  "file": "src/number_spiral.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/two_sets/linux/x86_64/release/src/two_sets.cpp.o", "src/two_sets.cpp"],
+  "file": "src/two_sets.cpp"
 }]
