@@ -1,58 +1,8 @@
 [
 {
   "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/repetitions/linux/x86_64/release/src/repetitions.cpp.o", "src/repetitions.cpp"],
-  "file": "src/repetitions.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/two_knights/linux/x86_64/release/src/two_knights.cpp.o", "src/two_knights.cpp"],
-  "file": "src/two_knights.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/palindrome_reorder/linux/x86_64/release/src/palindrome_reorder.cpp.o", "src/palindrome_reorder.cpp"],
-  "file": "src/palindrome_reorder.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/coin_piles/linux/x86_64/release/src/coin_piles.cpp.o", "src/coin_piles.cpp"],
-  "file": "src/coin_piles.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/gray_code/linux/x86_64/release/src/gray_code.cpp.o", "src/gray_code.cpp"],
-  "file": "src/gray_code.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/bit_strings/linux/x86_64/release/src/bit_strings.cpp.o", "src/bit_strings.cpp"],
-  "file": "src/bit_strings.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/two_sets/linux/x86_64/release/src/two_sets.cpp.o", "src/two_sets.cpp"],
-  "file": "src/two_sets.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/increasing_array/linux/x86_64/release/src/increasing_array.cpp.o", "src/increasing_array.cpp"],
-  "file": "src/increasing_array.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
   "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/creating_strings/linux/x86_64/release/src/creating_strings.cpp.o", "src/creating_strings.cpp"],
   "file": "src/creating_strings.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/number_spiral/linux/x86_64/release/src/number_spiral.cpp.o", "src/number_spiral.cpp"],
-  "file": "src/number_spiral.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/main/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
-  "file": "src/main.cpp"
 },
 {
   "directory": "/home/dayf/projects/cpp/cses",
@@ -61,28 +11,13 @@
 },
 {
   "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/stick_lengths/linux/x86_64/release/src/stick_lengths.cpp.o", "src/stick_lengths.cpp"],
-  "file": "src/stick_lengths.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/trailing_zeros/linux/x86_64/release/src/trailing_zeros.cpp.o", "src/trailing_zeros.cpp"],
-  "file": "src/trailing_zeros.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/movie_festival/linux/x86_64/release/src/movie_festival.cpp.o", "src/movie_festival.cpp"],
-  "file": "src/movie_festival.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
   "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/tower_of_hanoi/linux/x86_64/release/src/tower_of_hanoi.cpp.o", "src/tower_of_hanoi.cpp"],
   "file": "src/tower_of_hanoi.cpp"
 },
 {
   "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/maximum_subarray_sum/linux/x86_64/release/src/maximum_subarray_sum.cpp.o", "src/maximum_subarray_sum.cpp"],
-  "file": "src/maximum_subarray_sum.cpp"
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/two_knights/linux/x86_64/release/src/two_knights.cpp.o", "src/two_knights.cpp"],
+  "file": "src/two_knights.cpp"
 },
 {
   "directory": "/home/dayf/projects/cpp/cses",
@@ -91,18 +26,8 @@
 },
 {
   "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/permutations/linux/x86_64/release/src/permutations.cpp.o", "src/permutations.cpp"],
-  "file": "src/permutations.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/chessboard_and_queens/linux/x86_64/release/src/chessboard_and_queens.cpp.o", "src/chessboard_and_queens.cpp"],
-  "file": "src/chessboard_and_queens.cpp"
-},
-{
-  "directory": "/home/dayf/projects/cpp/cses",
-  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/missing_number/linux/x86_64/release/src/missing_number.cpp.o", "src/missing_number.cpp"],
-  "file": "src/missing_number.cpp"
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/trailing_zeros/linux/x86_64/release/src/trailing_zeros.cpp.o", "src/trailing_zeros.cpp"],
+  "file": "src/trailing_zeros.cpp"
 },
 {
   "directory": "/home/dayf/projects/cpp/cses",
@@ -111,6 +36,86 @@
 },
 {
   "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/maximum_subarray_sum/linux/x86_64/release/src/maximum_subarray_sum.cpp.o", "src/maximum_subarray_sum.cpp"],
+  "file": "src/maximum_subarray_sum.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/repetitions/linux/x86_64/release/src/repetitions.cpp.o", "src/repetitions.cpp"],
+  "file": "src/repetitions.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/palindrome_reorder/linux/x86_64/release/src/palindrome_reorder.cpp.o", "src/palindrome_reorder.cpp"],
+  "file": "src/palindrome_reorder.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
   "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/apple_division/linux/x86_64/release/src/apple_division.cpp.o", "src/apple_division.cpp"],
   "file": "src/apple_division.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/gray_code/linux/x86_64/release/src/gray_code.cpp.o", "src/gray_code.cpp"],
+  "file": "src/gray_code.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/movie_festival/linux/x86_64/release/src/movie_festival.cpp.o", "src/movie_festival.cpp"],
+  "file": "src/movie_festival.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/permutations/linux/x86_64/release/src/permutations.cpp.o", "src/permutations.cpp"],
+  "file": "src/permutations.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/main/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/stick_lengths/linux/x86_64/release/src/stick_lengths.cpp.o", "src/stick_lengths.cpp"],
+  "file": "src/stick_lengths.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/increasing_array/linux/x86_64/release/src/increasing_array.cpp.o", "src/increasing_array.cpp"],
+  "file": "src/increasing_array.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/two_sets/linux/x86_64/release/src/two_sets.cpp.o", "src/two_sets.cpp"],
+  "file": "src/two_sets.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/missing_number/linux/x86_64/release/src/missing_number.cpp.o", "src/missing_number.cpp"],
+  "file": "src/missing_number.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/missing_coin_sum/linux/x86_64/release/src/missing_coin_sum.cpp.o", "src/missing_coin_sum.cpp"],
+  "file": "src/missing_coin_sum.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/bit_strings/linux/x86_64/release/src/bit_strings.cpp.o", "src/bit_strings.cpp"],
+  "file": "src/bit_strings.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/number_spiral/linux/x86_64/release/src/number_spiral.cpp.o", "src/number_spiral.cpp"],
+  "file": "src/number_spiral.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/chessboard_and_queens/linux/x86_64/release/src/chessboard_and_queens.cpp.o", "src/chessboard_and_queens.cpp"],
+  "file": "src/chessboard_and_queens.cpp"
+},
+{
+  "directory": "/home/dayf/projects/cpp/cses",
+  "arguments": ["/sbin/gcc", "-c", "-m64", "-g", "-O3", "-std=c++20", "-Wall", "-Wextra", "-Wpedantic", "-Wshadow", "-g", "-fsanitize=address", "-fsanitize=undefined", "-DNDEBUG", "-o", "build/.objs/coin_piles/linux/x86_64/release/src/coin_piles.cpp.o", "src/coin_piles.cpp"],
+  "file": "src/coin_piles.cpp"
 }]
