@@ -1,21 +1,17 @@
-#include <algorithm>
 #include <iostream>
 #include <iterator>
 #include <numeric>
-#include <set>
 #include <vector>
 
 int main() {
   long n{};
   std::cin >> n;
 
-  std::set<long> xs{std::istream_iterator<long>(std::cin),
-                    std::istream_iterator<long>()};
+  std::vector<long> xs{std::istream_iterator<long>(std::cin),
+                       std::istream_iterator<long>()};
 
-  std::vector<long> ys(n);
-  std::iota(ys.begin(), ys.end(), 1);
-
-  std::cout << *std::mismatch(xs.begin(), xs.end(), ys.begin()).second;
+  auto sum_till_n{(n * (n + 1) / 2)};
+  std::cout << sum_till_n - std::reduce(xs.begin(), xs.end()) << '\n';
 
   return 0;
 }
